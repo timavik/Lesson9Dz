@@ -1,0 +1,14 @@
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\bin\Debug\net9.0\Lesson9DzTwo.exe
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\bin\Debug\net9.0\Lesson9DzTwo.deps.json
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\bin\Debug\net9.0\Lesson9DzTwo.runtimeconfig.json
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\bin\Debug\net9.0\Lesson9DzTwo.dll
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\bin\Debug\net9.0\Lesson9DzTwo.pdb
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\obj\Debug\net9.0\Lesson9DzTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\obj\Debug\net9.0\Lesson9DzTwo.AssemblyInfoInputs.cache
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\obj\Debug\net9.0\Lesson9DzTwo.AssemblyInfo.cs
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\obj\Debug\net9.0\Lesson9DzTwo.csproj.CoreCompileInputs.cache
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\obj\Debug\net9.0\Lesson9DzTwo.dll
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\obj\Debug\net9.0\refint\Lesson9DzTwo.dll
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\obj\Debug\net9.0\Lesson9DzTwo.pdb
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\obj\Debug\net9.0\Lesson9DzTwo.genruntimeconfig.cache
+D:\csharp\Lesson9DzTwo\Lesson9DzTwo\obj\Debug\net9.0\ref\Lesson9DzTwo.dll
